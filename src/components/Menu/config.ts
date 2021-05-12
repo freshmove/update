@@ -7,11 +7,6 @@ const config: MenuEntry[] = [
     href: 'https://exchange.freshmove.space/',
   },
   {
-    label: 'Home',
-    icon: 'HomeIcon',
-    href: 'https://exchange.freshmove.space/',
-  },
-  {
     label: 'Trade',
     icon: 'TradeIcon',
     items: [
