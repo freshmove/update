@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://freshmove.space/',
+    href: 'https://exchange.freshmove.space/',
   },
   
   {
