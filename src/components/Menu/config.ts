@@ -46,7 +46,7 @@ const config: MenuEntry[] = [
       {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/Freshmove",
+        href: "https://twitter.com/Fresh_moveoffi",
       },
       // {
       //   label: "Blog",
