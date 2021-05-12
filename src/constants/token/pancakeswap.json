@@ -16,7 +16,7 @@
       "address": "0x26a5dfab467d4f58fb266648cae769503cec9580",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/hero.png"
+      "logoURI": "https://presale.freshmove.store/public/images/token-symbol-light.png"
     },
     {
       "name": "Snek.Farm",
