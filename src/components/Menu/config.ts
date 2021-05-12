@@ -6,6 +6,7 @@ const config: MenuEntry[] = [
     icon: 'HomeIcon',
     href: 'https://exchange.freshmove.space/',
   },
+
   {
     label: 'Trade',
     icon: 'TradeIcon',
@@ -38,9 +39,14 @@ const config: MenuEntry[] = [
         icon: 'GithubIcon', 
       },
       {
-        label: "Docs",
-        href: "https://docs.farmhub.community/",
-        icon: 'BooksIcon',
+        label: "Telegram",
+        icon: "TelegramIcon",
+        href: "https://t.me/freshmoveofficial",
+      },
+      {
+        label: "Twitter",
+        icon: "TwitterIcon",
+        href: "https://twitter.com/Freshmove",
       },
       // {
       //   label: "Blog",
