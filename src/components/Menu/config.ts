@@ -34,7 +34,7 @@ const config: MenuEntry[] = [
     icon: 'MoreIcon',
     items: [
       {
-        label: "whitepaper",
+        label: "Whitepaper",
         href: "https://freshmove.store/presale/whitepaper.pdf",
         icon: 'BooksIcon',
       },
